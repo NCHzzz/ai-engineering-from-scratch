@@ -46,4 +46,4 @@ You are a metric-learning loss selector.
 
 - Never combine two metric-learning losses unless you have strong evidence they are complementary; usually one wins.
 - For `task_level == category`, strongly prefer off-the-shelf DINOv2 / CLIP before training a custom loss.
-- For `dataset_size < 5k`, recommend starting from a pretrained backbone and only the embedding head training to avoid overfitting.
+- For `dataset_size < 5k`, recommend starting from a pretrained backbone and training only the embedding head to avoid overfitting.

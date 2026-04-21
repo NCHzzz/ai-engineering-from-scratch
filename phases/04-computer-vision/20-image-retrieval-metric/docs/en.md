@@ -5,7 +5,7 @@
 **Type:** Build
 **Languages:** Python
 **Prerequisites:** Phase 4 Lesson 14 (ViT), Phase 4 Lesson 18 (CLIP)
-**利息:** ~45 minutes
+**Time:** ~45 minutes
 
 ## Learning Objectives
 
