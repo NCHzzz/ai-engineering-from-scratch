@@ -9,7 +9,7 @@
 
 ## Learning Objectives
 
-- Distinguish detection-by-tracking from query-based tracking and name the algorithm families (SORT, DeepSORT, ByteTrack, BoT-SORT, SAM 2 memory tracker, SAM 3.1 Object Multiplex)
+- Distinguish tracking-by-detection from query-based tracking and name the algorithm families (SORT, DeepSORT, ByteTrack, BoT-SORT, SAM 2 memory tracker, SAM 3.1 Object Multiplex)
 - Implement IoU + Hungarian assignment from scratch for classic tracking-by-detection
 - Explain SAM 2's memory bank and why it handles occlusion better than IoU-based association
 - Read the three tracking metrics (MOTA, IDF1, HOTA) and pick which one matters for a given use case
