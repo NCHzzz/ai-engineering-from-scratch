@@ -91,49 +91,72 @@ Progress tracking for every phase and lesson.
 | 12 | Introduction to JAX | ✅ | ~75 min |
 | 13 | Debugging Neural Networks | ✅ | ~75 min |
 
-## Phase 4: Computer Vision — ⬚ (~19 hours)
+## Phase 4: Computer Vision — ✅ (~27 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
-| 01 | Image Fundamentals — Pixels, Channels, Color Spaces | ⬚ | ~45 min |
-| 02 | Convolutions from Scratch | ⬚ | ~75 min |
-| 03 | CNNs — LeNet to ResNet | ⬚ | ~75 min |
-| 04 | Image Classification | ⬚ | ~75 min |
-| 05 | Transfer Learning & Fine-Tuning | ⬚ | ~75 min |
-| 06 | Object Detection — YOLO from Scratch | ⬚ | ~75 min |
-| 07 | Semantic Segmentation — U-Net | ⬚ | ~75 min |
-| 08 | Instance Segmentation — Mask R-CNN | ⬚ | ~75 min |
-| 09 | Image Generation — GANs | ⬚ | ~75 min |
-| 10 | Image Generation — Diffusion Models | ⬚ | ~75 min |
-| 11 | Stable Diffusion — Architecture & Fine-Tuning | ⬚ | ~75 min |
-| 12 | Video Understanding — Temporal Modeling | ⬚ | ~45 min |
-| 13 | 3D Vision — Point Clouds, NeRFs | ⬚ | ~45 min |
-| 14 | Vision Transformers (ViT) | ⬚ | ~45 min |
-| 15 | Real-Time Vision — Edge Deployment | ⬚ | ~75 min |
-| 16 | Build a Complete Vision Pipeline | ⬚ | ~120 min |
+| 01 | Image Fundamentals — Pixels, Channels, Color Spaces | ✅ | ~45 min |
+| 02 | Convolutions from Scratch | ✅ | ~75 min |
+| 03 | CNNs — LeNet to ResNet | ✅ | ~75 min |
+| 04 | Image Classification | ✅ | ~75 min |
+| 05 | Transfer Learning & Fine-Tuning | ✅ | ~75 min |
+| 06 | Object Detection — YOLO from Scratch | ✅ | ~75 min |
+| 07 | Semantic Segmentation — U-Net | ✅ | ~75 min |
+| 08 | Instance Segmentation — Mask R-CNN | ✅ | ~75 min |
+| 09 | Image Generation — GANs | ✅ | ~75 min |
+| 10 | Image Generation — Diffusion Models | ✅ | ~75 min |
+| 11 | Stable Diffusion — Architecture & Fine-Tuning | ✅ | ~75 min |
+| 12 | Video Understanding — Temporal Modeling | ✅ | ~45 min |
+| 13 | 3D Vision — Point Clouds, NeRFs | ✅ | ~45 min |
+| 14 | Vision Transformers (ViT) | ✅ | ~45 min |
+| 15 | Real-Time Vision — Edge Deployment | ✅ | ~75 min |
+| 16 | Build a Complete Vision Pipeline | ✅ | ~120 min |
+| 17 | Self-Supervised Vision — SimCLR, DINO, MAE | ✅ | ~75 min |
+| 18 | Open-Vocabulary Vision — CLIP | ✅ | ~45 min |
+| 19 | OCR & Document Understanding | ✅ | ~45 min |
+| 20 | Image Retrieval & Metric Learning | ✅ | ~45 min |
+| 21 | Keypoint Detection & Pose Estimation | ✅ | ~45 min |
+| 22 | 3D Gaussian Splatting from Scratch | ✅ | ~90 min |
+| 23 | Diffusion Transformers & Rectified Flow | ✅ | ~75 min |
+| 24 | SAM 3 & Open-Vocabulary Segmentation | ✅ | ~60 min |
+| 25 | Vision-Language Models (ViT-MLP-LLM) | ✅ | ~75 min |
+| 26 | Monocular Depth & Geometry Estimation | ✅ | ~60 min |
+| 27 | Multi-Object Tracking & Video Memory | ✅ | ~60 min |
+| 28 | World Models & Video Diffusion | ✅ | ~75 min |
 
-## Phase 5: NLP — Foundations to Advanced — ⬚ (~19 hours)
+## Phase 5: NLP — Foundations to Advanced — ✅ (~30 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
-| 01 | Text Processing — Tokenization, Stemming, Lemmatization | ⬚ | ~45 min |
-| 02 | Bag of Words, TF-IDF & Text Representation | ⬚ | ~75 min |
-| 03 | Word Embeddings — Word2Vec from Scratch | ⬚ | ~75 min |
-| 04 | GloVe, FastText & Subword Embeddings | ⬚ | ~45 min |
-| 05 | Sentiment Analysis | ⬚ | ~75 min |
-| 06 | Named Entity Recognition (NER) | ⬚ | ~75 min |
-| 07 | POS Tagging & Syntactic Parsing | ⬚ | ~45 min |
-| 08 | Text Classification — CNNs & RNNs for Text | ⬚ | ~75 min |
-| 09 | Sequence-to-Sequence Models | ⬚ | ~75 min |
-| 10 | Attention Mechanism — The Breakthrough | ⬚ | ~45 min |
-| 11 | Machine Translation | ⬚ | ~75 min |
-| 12 | Text Summarization | ⬚ | ~75 min |
-| 13 | Question Answering Systems | ⬚ | ~75 min |
-| 14 | Information Retrieval & Search | ⬚ | ~75 min |
-| 15 | Topic Modeling — LDA, BERTopic | ⬚ | ~45 min |
-| 16 | Text Generation — Language Models Before Transformers | ⬚ | ~45 min |
-| 17 | Chatbots — Rule-Based to Neural | ⬚ | ~75 min |
-| 18 | Multilingual NLP | ⬚ | ~45 min |
+| 01 | [Text Processing — Tokenization, Stemming, Lemmatization](phases/05-nlp-foundations-to-advanced/01-text-processing) | ✅ | ~45 min |
+| 02 | [Bag of Words, TF-IDF & Text Representation](phases/05-nlp-foundations-to-advanced/02-bag-of-words-tfidf) | ✅ | ~75 min |
+| 03 | [Word Embeddings — Word2Vec from Scratch](phases/05-nlp-foundations-to-advanced/03-word-embeddings-word2vec) | ✅ | ~75 min |
+| 04 | [GloVe, FastText & Subword Embeddings](phases/05-nlp-foundations-to-advanced/04-glove-fasttext-subword) | ✅ | ~45 min |
+| 05 | [Sentiment Analysis](phases/05-nlp-foundations-to-advanced/05-sentiment-analysis) | ✅ | ~75 min |
+| 06 | [Named Entity Recognition (NER)](phases/05-nlp-foundations-to-advanced/06-named-entity-recognition) | ✅ | ~75 min |
+| 07 | [POS Tagging & Syntactic Parsing](phases/05-nlp-foundations-to-advanced/07-pos-tagging-parsing) | ✅ | ~45 min |
+| 08 | [Text Classification — CNNs & RNNs for Text](phases/05-nlp-foundations-to-advanced/08-cnns-rnns-for-text) | ✅ | ~75 min |
+| 09 | [Sequence-to-Sequence Models](phases/05-nlp-foundations-to-advanced/09-sequence-to-sequence) | ✅ | ~75 min |
+| 10 | [Attention Mechanism — The Breakthrough](phases/05-nlp-foundations-to-advanced/10-attention-mechanism) | ✅ | ~45 min |
+| 11 | [Machine Translation](phases/05-nlp-foundations-to-advanced/11-machine-translation) | ✅ | ~75 min |
+| 12 | [Text Summarization](phases/05-nlp-foundations-to-advanced/12-text-summarization) | ✅ | ~75 min |
+| 13 | [Question Answering Systems](phases/05-nlp-foundations-to-advanced/13-question-answering) | ✅ | ~75 min |
+| 14 | [Information Retrieval & Search](phases/05-nlp-foundations-to-advanced/14-information-retrieval-search) | ✅ | ~75 min |
+| 15 | [Topic Modeling — LDA, BERTopic](phases/05-nlp-foundations-to-advanced/15-topic-modeling) | ✅ | ~45 min |
+| 16 | [Text Generation — Language Models Before Transformers](phases/05-nlp-foundations-to-advanced/16-text-generation-pre-transformer) | ✅ | ~45 min |
+| 17 | [Chatbots — Rule-Based to Neural](phases/05-nlp-foundations-to-advanced/17-chatbots-rule-to-neural) | ✅ | ~75 min |
+| 18 | [Multilingual NLP](phases/05-nlp-foundations-to-advanced/18-multilingual-nlp) | ✅ | ~45 min |
+| 19 | [Subword Tokenization — BPE, WordPiece, Unigram, SentencePiece](phases/05-nlp-foundations-to-advanced/19-subword-tokenization) | ✅ | ~60 min |
+| 20 | [Structured Outputs & Constrained Decoding](phases/05-nlp-foundations-to-advanced/20-structured-outputs-constrained-decoding) | ✅ | ~60 min |
+| 21 | [NLI & Textual Entailment](phases/05-nlp-foundations-to-advanced/21-nli-textual-entailment) | ✅ | ~60 min |
+| 22 | [Embedding Models Deep Dive](phases/05-nlp-foundations-to-advanced/22-embedding-models-deep-dive) | ✅ | ~60 min |
+| 23 | [Chunking Strategies for RAG](phases/05-nlp-foundations-to-advanced/23-chunking-strategies-rag) | ✅ | ~60 min |
+| 24 | [Coreference Resolution](phases/05-nlp-foundations-to-advanced/24-coreference-resolution) | ✅ | ~60 min |
+| 25 | [Entity Linking & Disambiguation](phases/05-nlp-foundations-to-advanced/25-entity-linking) | ✅ | ~60 min |
+| 26 | [Relation Extraction & Knowledge Graph Construction](phases/05-nlp-foundations-to-advanced/26-relation-extraction-kg) | ✅ | ~60 min |
+| 27 | [LLM Evaluation — RAGAS, DeepEval, G-Eval](phases/05-nlp-foundations-to-advanced/27-llm-evaluation-frameworks) | ✅ | ~75 min |
+| 28 | [Long-Context Evaluation — NIAH, RULER, LongBench, MRCR](phases/05-nlp-foundations-to-advanced/28-long-context-evaluation) | ✅ | ~60 min |
+| 29 | [Dialogue State Tracking](phases/05-nlp-foundations-to-advanced/29-dialogue-state-tracking) | ✅ | ~75 min |
 
 ## Phase 6: Speech & Audio — ⬚ (~13 hours)
 
@@ -369,6 +392,6 @@ Progress tracking for every phase and lesson.
 
 ---
 
-**Total: 20 phases, 260+ lessons | 96 complete | ~290 hours estimated**
+**Total: 20 phases, 272+ lessons | 124 complete | ~306 hours estimated**
 
 Want to help? Pick any ⬚ lesson and submit a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
